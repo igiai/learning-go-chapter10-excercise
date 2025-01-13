@@ -1,4 +1,4 @@
-module github.com/igiai/learning-go-chapter10-excercise
+module github.com/igiai/learning-go-chapter10-excercise/v2
 
 go 1.23.4
 
